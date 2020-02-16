@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{68935561-146A-092C-1CE2-388EF65D57EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WaterWaves2D/Readme.txt">
+    <Files>
+      <File FileName="Assets/scripts/PlayerController.cs" Line="47" Column="6" />
+      <File FileName="Assets/WaterWaves2D/Readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (2)" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="092af0ec-dd3b-484c-854d-0890c535a449" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
